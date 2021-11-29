@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\User\Desktop\TCM 2 SEMESTRE\ASP\ConsoleBanco1\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
